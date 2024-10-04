@@ -5,7 +5,6 @@ const resultForm = document.getElementById('result-form');
 const userBMI = document.getElementById('user-BMI');
 const userCategory = document.getElementById('user-category');
 const categoryDescription = document.getElementById('category-description');
-
 const isValid = /^[0-9]+(\.[0-9]+)?$/;
 
 resultForm.classList.add('hidden');
